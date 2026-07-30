@@ -1,0 +1,7 @@
+{
+  "name": "helloWorld",
+  "runtime": "go",
+  "version": "0.0.1",
+  "description": "a simple hello world program in go",
+  "text": "import fmt \n func helloWorld(){fmt.println(\"Hello World\")"
+}
